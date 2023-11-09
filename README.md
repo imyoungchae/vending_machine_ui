@@ -1,4 +1,7 @@
 # vending_machine_ui
-![image](https://github.com/imyoungchae/vending_machine_ui/assets/87971802/916f06e1-8b05-4d16-a502-ebb3c0848986)
 
-sudo apt-get install python3-pyqt5 qttools5-dev-tools
+![Screenshot from 2023-11-09 13-02-44](https://github.com/imyoungchae/vending_machine_ui/assets/87971802/b2cfaa58-fe0a-49b9-a539-ac6f3def76d3)
+
+
+--
+  sudo apt-get install python3-pyqt5 qttools5-dev-tools
